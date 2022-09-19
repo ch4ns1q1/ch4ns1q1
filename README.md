@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ch4ns1q1
+- 👋 Hi, I’m @ch4ns1q1.
 - 👀 I’m interested in distribute system, blockchain, web backend and GUI.
 
 <a href="/">
